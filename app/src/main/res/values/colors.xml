@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#03DAC6</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorError">#C51162</color>
+    <color name="colorOnError">#FFFFFF</color>
+
+    <array name="rainbow">
+        <item>@color/red_500</item>
+        <item>@color/orange_500</item>
+        <item>@color/yellow_500</item>
+        <item>@color/green_500</item>
+        <item>@color/blue_500</item>
+        <item>@color/indigo_500</item>
+        <item>@color/purple_500</item>
+    </array>
+
+    <array name="nodraw">
+        <item>@color/pink_A200</item>
+        <item>@color/purple_A200</item>
+    </array>
+
+    <array name="my_gradient">
+        <item>@color/red_500</item>
+        <item>@color/green_500</item>
+        <item>@color/blue_500</item>
+        <item>@color/yellow_500</item>
+    </array>
+
+    <array name="white_gradient">
+        <item>@color/white</item>
+        <item>@color/white</item>
+    </array>
+
+    <array name="black_gradient">
+        <item>@color/black</item>
+        <item>@color/black</item>
+    </array>
+
+</resources>
