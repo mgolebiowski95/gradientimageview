@@ -20,7 +20,7 @@ dependencies {
 ```
 
 ## Screenshots
-![]()
+![](https://github.com/mgolebiowski95/gradientimageview/blob/master/screenshots/Screenshot_1659514222.png)
 
 ## Usage
 ```xml
